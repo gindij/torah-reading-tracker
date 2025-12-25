@@ -1,0 +1,276 @@
+parsha_name,aliyah_number,is_complete,date_completed
+Parashat Achrei Mot,1,True,2025-12-24T11:38:14.518334
+Parashat Achrei Mot,2,True,2025-12-24T11:38:14.531343
+Parashat Achrei Mot,3,True,2025-12-24T11:38:14.541061
+Parashat Achrei Mot,4,True,2025-12-24T11:38:14.550903
+Parashat Achrei Mot,5,True,2025-12-24T11:38:14.560035
+Parashat Achrei Mot,6,True,2025-12-24T11:38:14.568891
+Parashat Achrei Mot,7,True,2025-12-24T11:38:14.578106
+Parashat Balak,1,True,2025-12-24T11:40:00.504626
+Parashat Balak,2,True,2025-12-24T11:40:00.518483
+Parashat Balak,3,True,2025-12-24T11:40:00.529852
+Parashat Balak,4,True,2025-12-24T11:40:00.539348
+Parashat Balak,5,True,2025-12-24T11:40:00.547897
+Parashat Balak,6,True,2025-12-24T11:40:00.557642
+Parashat Balak,7,True,2025-12-24T11:40:00.565982
+Parashat Bamidbar,1,True,2025-12-24T11:38:50.088349
+Parashat Bechukotai,1,True,2025-12-24T11:38:37.960768
+Parashat Bechukotai,2,True,2025-12-24T11:38:37.976185
+Parashat Bechukotai,3,True,2025-12-24T11:38:37.985902
+Parashat Bechukotai,4,True,2025-12-24T11:38:37.995005
+Parashat Bechukotai,5,True,2025-12-24T11:38:38.005146
+Parashat Bechukotai,6,True,2025-12-24T11:38:38.013483
+Parashat Bechukotai,7,True,2025-12-24T11:38:38.020045
+Parashat Behar,1,True,2025-12-24T11:38:35.084968
+Parashat Behar,2,True,2025-12-24T11:38:35.097130
+Parashat Behar,3,True,2025-12-24T11:38:35.109462
+Parashat Behar,4,True,2025-12-24T11:38:35.124071
+Parashat Behar,5,True,2025-12-24T11:38:35.134940
+Parashat Behar,6,True,2025-12-24T11:38:35.145559
+Parashat Behar,7,True,2025-12-24T11:38:35.154816
+Parashat Beha’alotcha,1,True,2025-12-24T11:39:10.402354
+Parashat Beha’alotcha,2,True,2025-12-24T11:39:10.422225
+Parashat Beha’alotcha,3,True,2025-12-24T11:39:10.432392
+Parashat Beha’alotcha,4,True,2025-12-24T11:39:10.445057
+Parashat Beha’alotcha,5,True,2025-12-24T11:39:10.452440
+Parashat Beha’alotcha,6,True,2025-12-24T11:39:10.459598
+Parashat Beha’alotcha,7,True,2025-12-24T11:39:10.466658
+Parashat Bereshit,1,True,2025-12-24T11:31:02.486592
+Parashat Bereshit,2,True,2025-12-24T11:31:04.398430
+Parashat Bereshit,3,True,2025-12-24T11:31:06.494996
+Parashat Bereshit,4,True,2025-12-24T11:31:08.041093
+Parashat Bereshit,5,True,2025-12-24T11:31:08.958197
+Parashat Bereshit,6,True,2025-12-24T11:31:10.235405
+Parashat Bereshit,7,True,2025-12-24T11:31:11.768123
+Parashat Beshalach,1,True,2025-12-24T11:34:35.600823
+Parashat Beshalach,2,True,2025-12-24T11:34:46.559604
+Parashat Beshalach,3,True,2025-12-24T11:34:50.555006
+Parashat Beshalach,4,True,2025-12-24T11:34:36.716011
+Parashat Beshalach,5,True,2025-12-24T11:34:47.729679
+Parashat Beshalach,7,False,
+Parashat Bo,1,True,2025-12-24T11:34:26.636628
+Parashat Bo,2,True,2025-12-24T11:34:30.301497
+Parashat Bo,3,True,2025-12-24T11:34:31.357792
+Parashat Bo,4,True,2025-12-24T11:34:27.485491
+Parashat Bo,5,True,2025-12-24T11:34:29.512563
+Parashat Bo,6,True,2025-12-24T11:34:32.269595
+Parashat Bo,7,True,2025-12-24T11:34:28.601703
+Parashat Chayei Sara,1,True,2025-12-24T11:32:19.301836
+Parashat Chayei Sara,2,True,2025-12-24T11:32:24.101752
+Parashat Chayei Sara,3,True,2025-12-24T11:32:28.983687
+Parashat Chayei Sara,4,True,2025-12-24T11:32:20.584024
+Parashat Chayei Sara,5,True,2025-12-24T11:32:25.156612
+Parashat Chayei Sara,6,True,2025-12-24T11:32:27.605152
+Parashat Chayei Sara,7,True,2025-12-24T11:32:22.422417
+Parashat Chukat,1,True,2025-12-24T11:39:31.646150
+Parashat Chukat,3,True,2025-12-24T11:39:32.728031
+Parashat Chukat,4,True,2025-12-24T11:39:34.566254
+Parashat Chukat,5,True,2025-12-24T11:39:33.691612
+Parashat Devarim,1,True,2025-12-24T11:41:29.313518
+Parashat Devarim,2,True,2025-12-24T11:41:31.928740
+Parashat Devarim,3,True,2025-12-24T11:41:33.095150
+Parashat Devarim,4,True,2025-12-24T11:41:30.172919
+Parashat Devarim,5,True,2025-12-24T11:41:31.155803
+Parashat Eikev,1,True,2025-12-24T11:42:10.126112
+Parashat Eikev,2,True,2025-12-24T11:42:11.118360
+Parashat Eikev,3,True,2025-12-24T11:42:12.157200
+Parashat Emor,1,True,2025-12-24T11:38:32.152690
+Parashat Emor,2,True,2025-12-24T11:38:32.165251
+Parashat Emor,3,True,2025-12-24T11:38:32.173874
+Parashat Emor,4,True,2025-12-24T11:38:32.181921
+Parashat Emor,5,True,2025-12-24T11:38:32.189871
+Parashat Emor,6,True,2025-12-24T11:38:32.199621
+Parashat Emor,7,True,2025-12-24T11:38:32.207730
+Parashat Ha’azinu,1,True,2025-12-24T11:43:13.909774
+Parashat Ha’azinu,2,True,2025-12-24T11:43:13.925310
+Parashat Ha’azinu,3,True,2025-12-24T11:43:13.936715
+Parashat Ha’azinu,4,True,2025-12-24T11:43:13.944732
+Parashat Ha’azinu,5,True,2025-12-24T11:43:13.953507
+Parashat Ha’azinu,6,True,2025-12-24T11:43:13.961173
+Parashat Ha’azinu,7,True,2025-12-24T11:43:13.966857
+Parashat Kedoshim,1,True,2025-12-24T11:38:17.416706
+Parashat Kedoshim,2,True,2025-12-24T11:38:19.804349
+Parashat Kedoshim,3,True,2025-12-24T11:38:21.871424
+Parashat Kedoshim,4,True,2025-12-24T11:38:18.632531
+Parashat Kedoshim,5,True,2025-12-24T11:38:20.698326
+Parashat Ki Tavo,1,True,2025-12-24T11:42:32.208233
+Parashat Ki Tavo,4,True,2025-12-24T11:42:33.537462
+Parashat Ki Tavo,5,True,2025-12-24T11:42:34.457317
+Parashat Ki Tavo,6,True,2025-12-24T11:42:35.458795
+Parashat Ki Tavo,7,True,2025-12-24T11:42:36.351420
+Parashat Ki Teitzei,1,True,2025-12-24T11:42:21.946947
+Parashat Ki Teitzei,2,True,2025-12-24T11:42:21.961393
+Parashat Ki Teitzei,3,True,2025-12-24T11:42:21.972430
+Parashat Ki Teitzei,4,True,2025-12-24T11:42:21.983064
+Parashat Ki Teitzei,5,True,2025-12-24T11:42:21.992090
+Parashat Ki Teitzei,6,True,2025-12-24T11:42:21.999284
+Parashat Ki Teitzei,7,True,2025-12-24T11:42:22.006297
+Parashat Ki Tisa,1,True,2025-12-24T11:36:48.828316
+Parashat Ki Tisa,2,True,2025-12-24T11:36:48.847758
+Parashat Ki Tisa,3,True,2025-12-24T11:36:48.860167
+Parashat Ki Tisa,4,True,2025-12-24T11:36:48.870466
+Parashat Ki Tisa,5,True,2025-12-24T11:36:48.881567
+Parashat Ki Tisa,6,True,2025-12-24T11:36:48.893125
+Parashat Ki Tisa,7,True,2025-12-24T11:36:48.903161
+Parashat Korach,1,True,2025-12-24T11:39:27.953992
+Parashat Lech-Lecha,1,True,2025-12-24T11:31:50.938736
+Parashat Masei,1,False,
+Parashat Masei,4,True,2025-12-24T11:41:16.780347
+Parashat Masei,5,True,2025-12-24T11:41:17.682019
+Parashat Masei,6,True,2025-12-24T11:41:18.711880
+Parashat Masei,7,True,2025-12-24T11:41:19.714935
+Parashat Matot,1,False,
+Parashat Metzora,1,True,2025-12-24T11:38:03.049150
+Parashat Miketz,1,True,2025-12-24T11:33:34.906848
+Parashat Miketz,2,True,2025-12-24T11:33:38.768665
+Parashat Miketz,3,True,2025-12-24T11:33:39.873201
+Parashat Miketz,4,True,2025-12-24T11:33:35.812183
+Parashat Miketz,5,True,2025-12-24T11:33:37.878574
+Parashat Miketz,6,True,2025-12-24T11:33:40.785629
+Parashat Miketz,7,True,2025-12-24T11:33:36.696473
+Parashat Mishpatim,1,True,2025-12-24T11:35:16.459562
+Parashat Mishpatim,2,True,2025-12-24T11:35:17.587971
+Parashat Mishpatim,3,True,2025-12-24T11:35:18.463821
+Parashat Mishpatim,4,True,2025-12-24T11:35:20.854043
+Parashat Mishpatim,5,True,2025-12-24T11:35:22.088384
+Parashat Mishpatim,6,True,2025-12-24T11:35:23.169437
+Parashat Mishpatim,7,True,2025-12-24T11:35:24.760487
+Parashat Nasso,1,True,2025-12-24T11:39:01.305018
+Parashat Nasso,4,True,2025-12-24T11:39:02.416337
+Parashat Nasso,5,True,2025-12-24T11:39:03.444534
+Parashat Nasso,6,True,2025-12-24T11:39:05.064213
+Parashat Nasso,7,True,2025-12-24T11:39:06.351813
+Parashat Nitzavim,1,True,2025-12-24T11:42:46.543840
+Parashat Noach,1,True,2025-12-24T11:31:30.327217
+Parashat Noach,2,True,2025-12-24T11:31:31.841494
+Parashat Noach,3,True,2025-12-24T11:31:33.203653
+Parashat Noach,4,True,2025-12-24T11:31:34.851927
+Parashat Noach,5,True,2025-12-24T11:31:36.273788
+Parashat Noach,6,True,2025-12-24T11:31:37.427442
+Parashat Noach,7,True,2025-12-24T11:31:38.583521
+Parashat Pekudei,1,True,2025-12-24T11:37:06.903172
+Parashat Pekudei,2,True,2025-12-24T11:37:06.916552
+Parashat Pekudei,3,True,2025-12-24T11:37:06.926963
+Parashat Pekudei,4,True,2025-12-24T11:37:06.936606
+Parashat Pekudei,5,True,2025-12-24T11:37:06.945505
+Parashat Pekudei,6,True,2025-12-24T11:37:06.955439
+Parashat Pekudei,7,True,2025-12-24T11:37:06.964830
+Parashat Pinchas,1,True,2025-12-24T11:40:51.789627
+Parashat Pinchas,5,True,2025-12-24T11:40:53.038104
+Parashat Re’eh,1,True,2025-12-24T11:42:16.379652
+Parashat Re’eh,2,True,2025-12-24T11:42:16.395026
+Parashat Re’eh,3,True,2025-12-24T11:42:16.404400
+Parashat Re’eh,4,True,2025-12-24T11:42:16.413569
+Parashat Re’eh,5,True,2025-12-24T11:42:16.422721
+Parashat Re’eh,6,True,2025-12-24T11:42:16.431322
+Parashat Re’eh,7,True,2025-12-24T11:42:16.440562
+Parashat Shemot,1,True,2025-12-24T11:34:07.813268
+Parashat Shemot,2,True,2025-12-24T11:34:12.043339
+Parashat Shemot,3,True,2025-12-24T11:34:13.090175
+Parashat Shemot,4,True,2025-12-24T11:34:08.932904
+Parashat Shemot,5,True,2025-12-24T11:34:11.114204
+Parashat Shemot,6,True,2025-12-24T11:34:13.871382
+Parashat Shemot,7,True,2025-12-24T11:34:09.779256
+Parashat Shmini,1,True,2025-12-24T11:37:44.093185
+Parashat Shmini,2,True,2025-12-24T11:37:44.105482
+Parashat Shmini,3,True,2025-12-24T11:37:44.115824
+Parashat Shmini,4,True,2025-12-24T11:37:44.125002
+Parashat Shmini,5,True,2025-12-24T11:37:44.134486
+Parashat Shmini,6,True,2025-12-24T11:37:44.144317
+Parashat Shmini,7,True,2025-12-24T11:37:44.152444
+Parashat Shoftim,1,True,2025-12-24T11:42:18.910079
+Parashat Shoftim,2,True,2025-12-24T11:42:18.920466
+Parashat Shoftim,3,True,2025-12-24T11:42:18.933345
+Parashat Shoftim,4,True,2025-12-24T11:42:18.945149
+Parashat Shoftim,5,True,2025-12-24T11:42:18.955026
+Parashat Shoftim,6,True,2025-12-24T11:42:18.962879
+Parashat Shoftim,7,True,2025-12-24T11:42:18.969967
+Parashat Sh’lach,1,True,2025-12-24T11:39:12.715097
+Parashat Sh’lach,2,True,2025-12-24T11:39:12.731065
+Parashat Sh’lach,3,True,2025-12-24T11:39:12.742438
+Parashat Sh’lach,4,True,2025-12-24T11:39:12.751864
+Parashat Sh’lach,5,True,2025-12-24T11:39:12.761925
+Parashat Sh’lach,6,True,2025-12-24T11:39:12.773062
+Parashat Sh’lach,7,True,2025-12-24T11:39:12.783893
+Parashat Tazria,1,True,2025-12-24T11:37:59.685535
+Parashat Terumah,1,True,2025-12-24T11:36:18.404815
+Parashat Terumah,2,True,2025-12-24T11:36:19.490357
+Parashat Terumah,3,True,2025-12-24T11:36:20.533768
+Parashat Terumah,6,True,2025-12-24T11:36:21.356648
+Parashat Tetzaveh,1,False,
+Parashat Tetzaveh,2,False,
+Parashat Tetzaveh,3,False,
+Parashat Tetzaveh,4,False,
+Parashat Tetzaveh,5,False,
+Parashat Tetzaveh,6,False,
+Parashat Tetzaveh,7,False,
+Parashat Toldot,1,True,2025-12-24T11:32:35.223700
+Parashat Tzav,1,True,2025-12-24T11:37:25.106835
+Parashat Tzav,3,True,2025-12-24T11:37:26.303354
+Parashat Tzav,4,True,2025-12-24T11:37:29.133975
+Parashat Tzav,5,True,2025-12-24T11:37:28.101888
+Parashat Tzav,6,True,2025-12-24T11:37:27.152525
+Parashat V'Zot HaBerachah,1,True,2025-12-24T11:56:56.796667
+Parashat V'Zot HaBerachah,2,True,2025-12-24T11:56:56.809137
+Parashat V'Zot HaBerachah,3,True,2025-12-24T11:56:56.816684
+Parashat V'Zot HaBerachah,4,True,2025-12-24T11:56:56.825558
+Parashat V'Zot HaBerachah,5,True,2025-12-24T11:56:56.833612
+Parashat V'Zot HaBerachah,6,True,2025-12-24T11:56:56.841866
+Parashat V'Zot HaBerachah,7,True,2025-12-24T11:56:56.850489
+Parashat Vaera,1,True,2025-12-24T11:34:17.747742
+Parashat Vaera,2,True,2025-12-24T11:34:21.267354
+Parashat Vaera,3,True,2025-12-24T11:34:22.272298
+Parashat Vaera,4,True,2025-12-24T11:34:18.620957
+Parashat Vaera,5,True,2025-12-24T11:34:20.423673
+Parashat Vaera,6,True,2025-12-24T11:34:23.173898
+Parashat Vaera,7,True,2025-12-24T11:34:19.449854
+Parashat Vaetchanan,1,True,2025-12-24T11:41:50.991431
+Parashat Vaetchanan,4,True,2025-12-24T11:41:51.846995
+Parashat Vayakhel,1,True,2025-12-24T11:37:02.520361
+Parashat Vayechi,1,True,2025-12-24T12:07:58.533737
+Parashat Vayeilech,1,True,2025-12-24T11:42:51.446668
+Parashat Vayeilech,2,True,2025-12-24T11:43:01.179934
+Parashat Vayeilech,3,True,2025-12-24T11:43:02.163356
+Parashat Vayeilech,4,True,2025-12-24T11:43:03.364093
+Parashat Vayeilech,7,True,2025-12-24T11:43:04.305951
+Parashat Vayera,1,True,2025-12-24T11:32:01.206590
+Parashat Vayera,2,True,2025-12-24T11:32:06.659876
+Parashat Vayera,3,True,2025-12-24T11:32:08.478987
+Parashat Vayera,4,True,2025-12-24T11:32:02.195492
+Parashat Vayera,5,True,2025-12-24T11:32:05.634602
+Parashat Vayera,6,True,2025-12-24T11:32:09.516906
+Parashat Vayera,7,True,2025-12-24T11:32:03.256297
+Parashat Vayeshev,1,True,2025-12-24T11:33:23.779033
+Parashat Vayeshev,2,True,2025-12-24T11:33:25.251604
+Parashat Vayeshev,3,True,2025-12-24T11:33:26.361105
+Parashat Vayeshev,4,True,2025-12-24T11:33:27.777008
+Parashat Vayeshev,5,True,2025-12-24T11:33:28.960057
+Parashat Vayeshev,6,True,2025-12-24T11:33:30.122630
+Parashat Vayeshev,7,True,2025-12-24T11:33:31.455568
+Parashat Vayetzei,1,True,2025-12-24T11:32:54.210115
+Parashat Vayetzei,2,True,2025-12-24T11:32:55.243920
+Parashat Vayetzei,3,True,2025-12-24T11:33:02.804673
+Parashat Vayetzei,4,True,2025-12-24T11:32:56.688459
+Parashat Vayetzei,5,True,2025-12-24T11:32:59.606417
+Parashat Vayetzei,6,True,2025-12-24T11:33:01.474495
+Parashat Vayetzei,7,True,2025-12-24T11:32:57.597380
+Parashat Vayigash,1,True,2025-12-24T11:33:43.885107
+Parashat Vayigash,2,True,2025-12-24T11:33:48.029018
+Parashat Vayigash,3,True,2025-12-24T11:33:48.929842
+Parashat Vayigash,4,True,2025-12-24T11:33:44.824417
+Parashat Vayigash,5,True,2025-12-24T11:33:46.988976
+Parashat Vayigash,6,True,2025-12-24T11:33:50.119019
+Parashat Vayigash,7,True,2025-12-24T11:33:45.640397
+Parashat Vayikra,1,True,2025-12-24T11:37:22.357274
+Parashat Vayishlach,1,True,2025-12-24T11:33:08.728192
+Parashat Vayishlach,2,True,2025-12-24T11:33:10.071504
+Parashat Vayishlach,3,True,2025-12-24T11:33:11.930541
+Parashat Vayishlach,4,True,2025-12-24T11:33:13.711726
+Parashat Vayishlach,5,True,2025-12-24T11:33:15.451796
+Parashat Yitro,1,True,2025-12-24T11:34:57.300110
+Parashat Yitro,2,True,2025-12-24T11:35:02.083403
+Parashat Yitro,3,True,2025-12-24T11:35:03.041567
+Parashat Yitro,4,True,2025-12-24T11:34:58.174795
+Parashat Yitro,5,True,2025-12-24T11:35:01.146321
+Parashat Yitro,6,True,2025-12-24T11:35:04.010877
+Parashat Yitro,7,True,2025-12-24T11:35:00.140301

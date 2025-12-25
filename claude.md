@@ -1,0 +1,10 @@
+- format code with  black and use isort to clean up imports
+- use pytest for unit testing
+- use uv for package management. make sure that the required packages are being tracked
+- every time you make a new code change, make sure that tests pass. if they do not pass, do a root cause analysis and fix the code (or the test). DO NOT CHANGE TESTS JUST TO MAKE THEM PASS
+- test cases should be minimal and meaningful. they should test core functionality and only break when important behavioral expectations have been broken
+- use type hints and document all public functions
+- do not use special characters or emojis in code
+- add explanatory comments where something non-obvious is happening, but do not just comment every line
+- critically evaluate every decision you are making. our key considerations for this project is that it be lightweight, simple to understand, and easy to interact with
+- make small commits in general with concise commit messages. if you need to build a larger discrete feature, cut a branch, develop and debug the feature, then merge back into the main branch

@@ -1,0 +1,13 @@
+[project]
+name = "torah-reading-tracker"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.8"
+dependencies = [
+    "black>=24.8.0",
+    "flask>=3.0.3",
+    "flask-cors>=5.0.0",
+    "isort>=5.13.2",
+    "pytest>=8.3.5",
+    "requests>=2.32.4",
+]

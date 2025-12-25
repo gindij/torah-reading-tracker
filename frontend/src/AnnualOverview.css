@@ -1,0 +1,112 @@
+.annual-overview {
+  background: white;
+  border-radius: 8px;
+  padding: 2rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.annual-overview h1 {
+  color: #2c3e50;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.book-section {
+  margin-bottom: 3rem;
+}
+
+.book-header {
+  color: #2c3e50;
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 3px solid #3498db;
+}
+
+.book-stats {
+  display: flex;
+  gap: 2rem;
+  margin-bottom: 1rem;
+  padding: 0.75rem 0;
+  font-size: 0.9rem;
+}
+
+.book-stat {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.book-stat .stat-label {
+  font-weight: 600;
+  color: #7f8c8d;
+}
+
+.book-stat .stat-value {
+  color: #2c3e50;
+  font-weight: bold;
+}
+
+.book-stat .stat-percentage {
+  margin-left: 0.5rem;
+  color: #7f8c8d;
+  font-weight: normal;
+  font-size: 0.85em;
+}
+
+.parshiot-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 0.75rem;
+}
+
+.parsha-overview-card {
+  background: #f8f9fa;
+  border: 1px solid #ecf0f1;
+  border-radius: 6px;
+  padding: 0.75rem;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.parsha-overview-card:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+  transform: translateY(-2px);
+  border-color: #3498db;
+}
+
+.parsha-overview-card h3 {
+  color: #2c3e50;
+  margin-bottom: 0.5rem;
+  font-size: 0.9rem;
+}
+
+.parsha-progress-bar {
+  height: 6px;
+  background-color: #ecf0f1;
+  border-radius: 3px;
+  overflow: hidden;
+  margin-bottom: 0.4rem;
+}
+
+.parsha-progress-fill {
+  height: 100%;
+  background-color: #3498db;
+  transition: width 0.3s ease;
+}
+
+.parsha-progress-text {
+  font-size: 0.75rem;
+  color: #7f8c8d;
+  text-align: right;
+  margin-bottom: 0.5rem;
+}
+
+.parsha-book-stats {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.7rem;
+  color: #95a5a6;
+  padding-top: 0.5rem;
+  border-top: 1px solid #ecf0f1;
+}

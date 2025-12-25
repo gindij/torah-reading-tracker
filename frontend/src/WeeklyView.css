@@ -1,0 +1,166 @@
+.weekly-view {
+  background: white;
+  border-radius: 8px;
+  padding: 2rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.parsha-selector {
+  margin-bottom: 2rem;
+}
+
+.parsha-selector label {
+  font-weight: 600;
+  margin-right: 1rem;
+  color: #2c3e50;
+}
+
+.parsha-selector select {
+  padding: 0.5rem 1rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 1rem;
+  cursor: pointer;
+  background: white;
+}
+
+.parsha-header {
+  text-align: center;
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 2px solid #ecf0f1;
+}
+
+.parsha-header h1 {
+  color: #2c3e50;
+  margin-bottom: 0.5rem;
+}
+
+.parsha-hebrew {
+  font-size: 1.2rem;
+  color: #7f8c8d;
+  margin-bottom: 0.5rem;
+}
+
+.parsha-portion {
+  color: #95a5a6;
+  font-size: 0.9rem;
+}
+
+.parsha-stats {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-bottom: 2rem;
+  padding: 1rem;
+  background: #f8f9fa;
+  border-radius: 8px;
+}
+
+.stat-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.stat-label {
+  font-weight: 600;
+  color: #7f8c8d;
+}
+
+.stat-value {
+  font-size: 1.1rem;
+  color: #2c3e50;
+  font-weight: bold;
+}
+
+.parsha-actions {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+
+.toggle-all-button {
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  font-weight: 600;
+  color: white;
+  background: #3498db;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.toggle-all-button:hover {
+  background: #2980b9;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(52, 152, 219, 0.3);
+}
+
+.toggle-all-button:active {
+  transform: translateY(0);
+}
+
+.aliyot-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1rem;
+}
+
+.aliyah-card {
+  background: #f8f9fa;
+  border: 2px solid #ecf0f1;
+  border-radius: 8px;
+  padding: 1rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.aliyah-card:hover {
+  border-color: #3498db;
+  box-shadow: 0 2px 8px rgba(52, 152, 219, 0.2);
+}
+
+.aliyah-card.completed {
+  background: #d5f4e6;
+  border-color: #27ae60;
+}
+
+.aliyah-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+
+.aliyah-number {
+  font-weight: bold;
+  color: #2c3e50;
+}
+
+.aliyah-checkbox {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}
+
+.aliyah-verses {
+  font-size: 0.9rem;
+  color: #7f8c8d;
+  margin-bottom: 0.5rem;
+}
+
+.aliyah-stats {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.85rem;
+  color: #95a5a6;
+}
+
+.aliyah-date {
+  margin-top: 0.5rem;
+  font-size: 0.8rem;
+  color: #27ae60;
+  font-style: italic;
+}
