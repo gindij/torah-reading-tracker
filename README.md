@@ -44,7 +44,7 @@ This will fetch all 54 Torah parshiot with word counts from Hebcal and Sefaria A
 
 Terminal 1 - Start Flask API:
 ```bash
-uv run python backend/api/app.py
+uv run python -m backend.api.app
 ```
 
 Terminal 2 - Start React frontend:

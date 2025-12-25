@@ -2,7 +2,7 @@
 
 # Start Flask API in background
 echo "Starting Flask API on http://localhost:5001..."
-uv run python backend/api/app.py &
+uv run python -m backend.api.app &
 FLASK_PID=$!
 
 # Wait for Flask to start
